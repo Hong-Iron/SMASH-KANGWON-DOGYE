@@ -20,5 +20,58 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "강원대학교 보건과학관": {
+      "style": "brick",
+      "wall": "#8a5a50",
+      "glass": "#3f6f6e",
+      "frame": "#c9c3b8"
+    },
+    "강원대학교 실내체육관": {
+      "style": "glass",
+      "wall": "#cdbb9c",
+      "glass": "#2c4d5b",
+      "frame": "#8fa0a3"
+    },
+    "강원대학교창조과학관": {
+      "style": "brick",
+      "wall": "#8b5c4e",
+      "glass": "#3f6f7c",
+      "frame": "#cfcac2"
+    },
+    "강원대학교 학생회관/종합복지센터": {
+      "style": "glass",
+      "wall": "#c7c0bb",
+      "glass": "#2f6070",
+      "frame": "#e0dcd8"
+    },
+    "강원대학교 도서관": {
+      "style": "ribbon",
+      "wall": "#c8c6cc",
+      "glass": "#2f527a",
+      "frame": "#d8d8dc"
+    },
+    "종합강의동": {
+      "style": "brick",
+      "wall": "#70503f",
+      "glass": "#2e3438",
+      "frame": "#cfc9be"
+    },
+    "대학본관": {
+      "style": "brick",
+      "wall": "#855d4f",
+      "glass": "#3c6f78",
+      "frame": "#d8d2c8"
+    },
+    "황조생활관": {
+      "style": "dorm",
+      "wall": "#d6d2cc",
+      "glass": "#4a6670",
+      "frame": "#ecebe8",
+      "hip": true,
+      "roof": "#3a3d42"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
